@@ -1,0 +1,14 @@
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\bin\Debug\net8.0\GerenciamentoFuncionarios.exe
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\bin\Debug\net8.0\GerenciamentoFuncionarios.deps.json
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\bin\Debug\net8.0\GerenciamentoFuncionarios.runtimeconfig.json
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\bin\Debug\net8.0\GerenciamentoFuncionarios.dll
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\bin\Debug\net8.0\GerenciamentoFuncionarios.pdb
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\obj\Debug\net8.0\GerenciamentoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\obj\Debug\net8.0\GerenciamentoFuncionarios.AssemblyInfoInputs.cache
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\obj\Debug\net8.0\GerenciamentoFuncionarios.AssemblyInfo.cs
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\obj\Debug\net8.0\GerenciamentoFuncionarios.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\obj\Debug\net8.0\GerenciamentoFuncionarios.dll
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\obj\Debug\net8.0\refint\GerenciamentoFuncionarios.dll
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\obj\Debug\net8.0\GerenciamentoFuncionarios.pdb
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\obj\Debug\net8.0\GerenciamentoFuncionarios.genruntimeconfig.cache
+C:\workspace\C#\Exercicios C#\GerenciamentoFuncionarios\obj\Debug\net8.0\ref\GerenciamentoFuncionarios.dll
